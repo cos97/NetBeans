@@ -16,7 +16,7 @@ import java.util.Scanner;
  * @author Usuario
  */
 public class TrabajoPR_QEQ {
-
+//Prueba commit v0.2 github
     /**
      * @param args the command line arguments
      * @throws java.io.IOException
