@@ -16,7 +16,7 @@ import java.util.Scanner;
  * @author Usuario
  */
 public class TrabajoPR_QEQ {
-//Prueba commit v0.2 github
+//Prueba commit v0.3 github
     /**
      * @param args the command line arguments
      * @throws java.io.IOException
@@ -30,7 +30,7 @@ public class TrabajoPR_QEQ {
 
         //Crear los personajes
         Personajes simpson[] = new Personajes[9];
-
+//Prueba v03
         //Nuestro personaje
         Personajes simpsonAux = new Personajes();
         //                                 nombre      femenino    peloAzul       pocoPelo      esJoven     esFamoso
